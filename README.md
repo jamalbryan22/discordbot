@@ -1,5 +1,5 @@
 # discordbot
-C# discord bot using Dsharpplus nugget package
+C# discord bot using Dsharpplus nuget package
 
 See link below for create tutorial
 
